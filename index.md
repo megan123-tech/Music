@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+Title - ROXY'S MUSIC SCHOOL
 
 You can use the [editor on GitHub](https://github.com/megan123-tech/Music/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
